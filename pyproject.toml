@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "outlty-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server for routes as MCP tools"
 readme = "README.md"
 authors = [{ name = "OutlyLabs" }]
